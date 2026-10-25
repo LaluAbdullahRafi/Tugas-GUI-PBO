@@ -31,9 +31,7 @@ Program ini dirancang dengan menerapkan seluruh komponen wajib sesuai ketentuan 
    * **`ActionListener`**: Diimplementasikan pada tombol **Setor** dan **Tarik** untuk mendeteksi klik pengguna dan menjalankan logika matematika penambahan/pengurangan saldo.
    * **`ItemListener`**: Diimplementasikan pada **`JCheckBox`** ("Aktifkan Mode Cepat") untuk mendeteksi perubahan status centang (aktif/tidak aktif) secara *real-time* dan mengubah judul jendela (*title*).
 
----
 
-## Screenshot Program
 ## Screenshot Program
 
 ![Tampilan Program 1](./Screenshot/Gambar1.png)
