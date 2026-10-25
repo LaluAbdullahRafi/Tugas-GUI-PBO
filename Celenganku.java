@@ -5,9 +5,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.ItemEvent;
 import java.awt.event.ItemListener;
 
-// 1. Top Level Container (JFrame)
 public class Celenganku extends JFrame implements ActionListener, ItemListener {
-    // 3. Atomic Components
     private JTextField txtNominal;
     private JCheckBox chkKonfirmasi;
     private JButton btnSetor, btnTarik;
